@@ -1,0 +1,3 @@
+<?php
+// subscriptions page
+?>
